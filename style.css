@@ -1,0 +1,92 @@
+ .color-1 a {
+      color: dimgray;
+ }
+ 
+ .btn-btn{
+     color:white;
+     border: none;
+     background-color: black;
+     padding:9px 20px;
+     border-radius: 10px;
+
+ }
+ .carousel-item{
+     padding: 20px 40px;
+     background-image: url("images/hot-gadgets/bg-1.png");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size:contain;
+     
+}
+.bg-1{
+      background-image: url("images/hot-gadgets/bg-2.png");
+      background-repeat: no-repeat;
+      background-position: left bottom;
+      background-size: 233px 202px;
+      background-position-x: -38px;
+      background-position-y: 500px;
+}
+.hasan-1{
+      margin-bottom: 150px;
+}
+.sec-2{
+     color: #FF9D00;
+}
+.flex-1{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+       
+}
+.flex-2{
+      padding: 20px 30px;
+     box-shadow: 5px 5px 10px lightgray;
+     border: none;
+     border-radius: 5px;
+}
+.card-title-1{
+      text-align: center;
+}
+#button{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.text-1{
+     text-align: center;
+     text-decoration: underline;
+     text-decoration-color:#FF9C35;
+}
+#kkk img{
+     width: 100%;
+}
+.cat-1{
+     padding: 60px 30px;
+     margin: ;
+     border-radius: 15px 0 15px 0;
+     box-shadow: 5px 5px 10px lightgray;
+     text-align: center;
+}
+.cat-2{
+     padding:40px 20px ;
+     margin: 20px;
+     border-radius: 15px 0 15px 0;
+     box-shadow: 5px 5px 10px lightgray;
+     text-align: center;
+}
+.cat-3{
+     padding: 40px 20px;
+     margin: 20px;
+     border-radius: 15px 0  15px 0;
+     box-shadow: 5px 5px 10px lightgray;
+     text-align: center;
+}
+.cen-1{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+footer p{
+     text-align: center;
+}
+ 
